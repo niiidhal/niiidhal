@@ -35,12 +35,12 @@
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 ### 🔗Contact Me
-[![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/nidhal.lebri.12/)
+[![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-square&logo=FaceBook&logoColor=white)](https://www.facebook.com/nidhal.lebri.12/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nidhal.labri@gmail.com)](mailto:nidhal.labri@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://dz.linkedin.com/in/nidhal-labri)](https://dz.linkedin.com/in/nidhal-labri)
 <a href="https://www.instagram.com/nidhal.lbr/" alt="Instagram"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 <a href="https://twitter.com/Nidhal_labri" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=+213656622816)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-square&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=+213656622816)
 
 
 
