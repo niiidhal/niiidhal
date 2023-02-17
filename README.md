@@ -27,10 +27,10 @@
 
 
 - ### I’m currently learning 
- ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-square&logo=python&logoColor=white)
+ #![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+ #![Python](https://img.shields.io/badge/Python-14354C?style=for-the-square&logo=python&logoColor=white)
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-square&logo=mysql&logoColor=white)
- ![Larvel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-square&logo=laravel&logoColor=white)
+ #![Larvel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-square&logo=laravel&logoColor=white)
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
