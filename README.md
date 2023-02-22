@@ -23,13 +23,12 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-square&logo=php&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-square&logo=mysql&logoColor=white)
+
 
 
 - ### I’m currently learning 
- ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-square&logo=python&logoColor=white)
- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-square&logo=mysql&logoColor=white)
  ![Larvel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-square&logo=laravel&logoColor=white)
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
